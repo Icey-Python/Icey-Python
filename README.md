@@ -12,9 +12,10 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Icey-Python&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false)
+[](https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Icey-Python&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=Icey-Python&theme=dark&no-frame=false&no-bg=true&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=Icey-Python&theme=dark&no-frame=false&no-bg=true&margin-w=6)<br/>
+[![wakatime](https://wakatime.com/badge/user/7760ef1a-e52d-4c5f-93aa-5daea7d318ea.svg)](https://wakatime.com/@7760ef1a-e52d-4c5f-93aa-5daea7d318ea)
