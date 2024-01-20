@@ -1,8 +1,8 @@
 # Hi there 👋 
 
-- 🔭 I’m currently working on a atomated ID/cards system in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=f0dd54)
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on any Flask/Python related project
+- 🔭 I’m currently working on an automated ID-cards system in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=f0dd54)
+- 🌱 I’m currently learning React js
+- 👯 I’m looking to collaborate on any Flask/Python-related project
 - ⚡ Fun fact: Developers declare variables, not war 😄
 
 ## 💻 Tech Stack:
