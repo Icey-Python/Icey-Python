@@ -17,7 +17,6 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: Icey-Python
-          outputs: dist/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
