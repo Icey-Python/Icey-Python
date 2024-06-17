@@ -18,6 +18,7 @@
 ## 🛠 Skills:
 
 - Python, Flask
+- Web Scrapping
 - JavaScript, React, Next.js
 - Flutter
 - PostgreSQL
