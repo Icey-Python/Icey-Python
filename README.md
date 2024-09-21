@@ -1,27 +1,30 @@
-![Profile Banner](https://github.com/Icey-Python/Icey-Python/assets/65103243/b6731adc-2a66-4bf3-a830-9f4caeb63922)
+<body>
+  <h1 style="background-color: #222; color: #fff; font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; padding: 100px;">Hi! I am Sam</h1>
+</body>
 
 - 🔭 I’m currently working on:
-  - an automated ID-cards system in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=f0dd54)
-- 🌱 I’m currently learning Flutter and Next.js
-- 👯 I’m looking to collaborate on any Flask/Python-related project
+  - An E-commerce backend service in Node Js
+- 🌱 I’m currently learning Nodejs
+- 👯 I’m looking to collaborate on any Python/Javascript backend projects
 - ⚡ Fun fact: Light mode attracts bugs 😄
 
 ## 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=f0dd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3.10-3670A0?style=for-the-badge&logo=python&logoColor=f0dd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-ES2023-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-18.2.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/next.js-13.2.0-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
+[![Flutter](https://img.shields.io/badge/flutter-3.3.0-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Node.js](https://img.shields.io/badge/node.js-18.x-green.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v6.0-blue.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=for-the-badge&logo=icon&logoColor=white&logoData=eyJ0eXBlIjoiZnVuY3Rpb24iLCJkYXRhIjoiJTNEJSBUZXh0PVVucG9ydGVkJSVIJTBBJTVDJTI5JSVIJTBBJTVEYJSVIJTBBJTVCJTI5JTBBJTVCJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdEJTBBJTVEJTI5JTBBJTVEJTI5JTBBJTVEJTI5JTdE"%3D)](https://expressjs.com/)
 
 ## 🛠 Skills:
 
 - Python, Flask
 - Web Scrapping
-- JavaScript, React, Next.js
+- JavaScript,Next.js
 - Flutter
-- PostgreSQL
 - Git, GitHub Actions
 
 ## 🚀 Projects:
