@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on:
   - An E-commerce backend service in Node Js
-- 🌱 I’m currently learning Nodejs
+  - Chat System using Assymetric encryption (RSA)
 - 👯 I’m looking to collaborate on any Python/Javascript backend projects
-- ⚡ Fun fact: Light mode attracts bugs 😄
+- ⚡ Fun fact: Less code, less bugs😄
 
 ## 💻 Tech Stack:
 
