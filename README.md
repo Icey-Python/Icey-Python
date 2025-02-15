@@ -3,7 +3,6 @@
 </body>
 
 - 🔭 I’m currently working on:
-  - An E-commerce backend service in Node Js
   - Chat System using Assymetric encryption (RSA)
 - 👯 I’m looking to collaborate on any Python/Javascript backend projects
 - ⚡ Fun fact: Less code, less bugs😄
