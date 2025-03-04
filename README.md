@@ -1,5 +1,5 @@
 <body>
-  <h1 style="background-color: #222; color: #fff; font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; padding: 100px;">Hi! I am Sam</h1>
+  <h1 style="background-color: #222; color: #fff; font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; padding: 100px;">Hello! I am Sam</h1>
 </body>
 
 - 🔭 I’m currently working on:
@@ -22,7 +22,7 @@
 
 - Python, Flask
 - Web Scrapping
-- JavaScript,Next.js
+- JavaScript,Typescript,Next.js
 - Flutter
 - Git, GitHub Actions
 
