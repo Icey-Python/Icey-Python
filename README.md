@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on:
   - Resurface Cloud
-- 👯 I’m looking to collaborate on any Python/Javascript backend projects
-- ⚡ Fun fact: Less code, less bugs😄
 
 ## 💻 Tech Stack:
 
