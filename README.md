@@ -1,9 +1,9 @@
 <body>
   <h1 style="background-color: #222; color: #fff; font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; padding: 100px;">Hello! I am Sam</h1>
+  <span>I'm a passionate developer working on innovative solutions at Resurface Cloud. I love building impactful projects in agritech, healthcare, and data-driven applications.</span>
 </body>
 
-- 🔭 I’m currently working on:
-  - Resurface Cloud
+
 
 ## 💻 Tech Stack:
 
@@ -18,11 +18,11 @@
 
 ## 🛠 Skills:
 
-- Python, Flask
-- Web Scrapping
-- JavaScript,Typescript,Next.js
-- Flutter
-- Git, GitHub Actions
+- **Backend**: Python, Flask, FastAPI, Express.js + MongoDB, Postgress
+- **Frontend**: JavaScript, TypeScript, Next.js
+- **Mobile**: Flutter, React Native
+- **DevOps**: Git, GitHub Actions
+- **Other**: Web Scraping, API Development
 
 ## 🚀 Projects:
 
