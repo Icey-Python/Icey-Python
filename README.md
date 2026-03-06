@@ -22,16 +22,15 @@ Passionate developer at **Zenetra Labs**, dedicated to building innovative, data
 
 "Any application that can be written in JavaScript, will eventually be written in JavaScript." — *Atwood's Law*
 
+> Activity
+<p>
+  <img src="https://wakatime.com/share/@Samkelly/40879f42-da85-4ba5-8ad9-909aa5225706.svg" alt="Coding Activity Chart 1" width="400" />
+  <img src="https://wakatime.com/share/@Samkelly/a6ffdc93-2f18-4326-8451-f4897a17ecfb.svg" alt="Coding Activity Chart 2" width="400" />
+</p>
 
 > Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false" />
-</p>
-
-> Activity
-<p>
-  <img src="https://wakatime.com/share/@Samkelly/40879f42-da85-4ba5-8ad9-909aa5225706.svg" alt="Coding Activity Chart 1" width="500" />
-  <img src="https://wakatime.com/share/@Samkelly/a6ffdc93-2f18-4326-8451-f4897a17ecfb.svg" alt="Coding Activity Chart 2" width="500" />
 </p>
 
 > Let's Connect
