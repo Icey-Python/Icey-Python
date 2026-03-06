@@ -1,31 +1,45 @@
-<body>
-  <h1 style="background-color: #222; color: #fff; font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; padding: 100px;">Hello! I am Sam</h1>
-  <span>I'm a passionate developer working on innovative solutions at Resurface Cloud. I love building impactful projects in agritech, healthcare, and data-driven applications.</span>
-  <span>Fun fact: If it can be written in Javascript it will eventually be written in javascript 😄</span>
-</body>
+```
+▖   ▄▖       ▌  ▄▖  ▜ ▜ ▄▖▗     ▌   ▄       ▜         
+▝▖  ▚ ▀▌▛▛▌  ▌  ▙▖▌▌▐ ▐ ▚ ▜▘▀▌▛▘▙▘  ▌▌█▌▌▌█▌▐ ▛▌▛▌█▌▛▘
+▞   ▄▌█▌▌▌▌  ▌  ▌ ▙▌▐▖▐▖▄▌▐▖█▌▙▖▛▖  ▙▘▙▖▚▘▙▖▐▖▙▌▙▌▙▖▌ 
+             ▘                                  ▌     
+```
+<p align="left">
+  <a href="http://zenetralabs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Zenetra_Labs-Developer-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Zenetra Labs Developer" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Mobile-green?style=flat-square" alt="Focus: Web | Mobile" />
+  <img src="https://img.shields.io/github/followers/Icey-Python?label=Follow&style=flat-square&color=white" alt="GitHub Followers" />
+</p>
 
-## 🚀 Projects:
-- [Shop Yetu](https://shopyetu.online/) - A platform for local business to showcase their producs to real customer.
-- [News-Feed-Ke API](https://github.com/Icey-Python/News_Scrapper) - A news scrapper utilizing GitHub actions to store and clean the data.
-- [Agrisolve](https://github.com/Icey-Python/agrisolve) - A crop-disease detection, weather forecasting, and marketing web app for farmers.
+  [![wakatime](https://wakatime.com/badge/user/7760ef1a-e52d-4c5f-93aa-5daea7d318ea.svg)](https://wakatime.com/@7760ef1a-e52d-4c5f-93aa-5daea7d318ea)
+  
 
-## 📫 How to reach me:
+Passionate developer at **Zenetra Labs**, dedicated to building innovative, data-driven solutions. I specialize in bridging the gap between complex data and impactful user experiences in the **Agritech** and **Healthcare** sectors.
 
-- [LinkedIn](https://www.linkedin.com/in/sammy-kelly-777079292/)
-- [Email](mailto:ndungusamkelly5@gmail.com)
+> Fun Facts
 
-## 📊 GitHub Stats:
+"Any application that can be written in JavaScript, will eventually be written in JavaScript." — *Atwood's Law*
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Icey-Python&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Icey-Python&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-## 🏆 GitHub Trophies:
+> Stats
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false" />
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=Icey-Python&theme=dark&no-frame=false&no-bg=true&margin-w=6)<br/>
-[![wakatime](https://wakatime.com/badge/user/7760ef1a-e52d-4c5f-93aa-5daea7d318ea.svg)](https://wakatime.com/@7760ef1a-e52d-4c5f-93aa-5daea7d318ea)
+> Activity
+<p>
+  <img src="https://wakatime.com/share/@Samkelly/40879f42-da85-4ba5-8ad9-909aa5225706.svg" alt="Coding Activity Chart 1" width="500" />
+  <img src="https://wakatime.com/share/@Samkelly/a6ffdc93-2f18-4326-8451-f4897a17ecfb.svg" alt="Coding Activity Chart 2" width="500" />
+</p>
 
-![GitHub Contribution Snake](https://github.com/Icey-Python/Icey-Python/blob/output/github-contribution-grid-snake.gif)
+> Let's Connect
 
-## 📈 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=Icey-Python&style=flat-square)
+- **LinkedIn:** [Sammy Kelly](https://www.linkedin.com/in/sammy-kelly-777079292/)
+- **Email:** [ndungusamkelly5@gmail.com](mailto:ndungusamkelly5@gmail.com)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Icey-Python&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
