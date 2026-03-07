@@ -16,7 +16,9 @@
   [![wakatime](https://wakatime.com/badge/user/7760ef1a-e52d-4c5f-93aa-5daea7d318ea.svg)](https://wakatime.com/@7760ef1a-e52d-4c5f-93aa-5daea7d318ea)
   
 
-Passionate developer at **Zenetra Labs**, dedicated to building innovative, data-driven solutions. I specialize in bridging the gap between complex data and impactful user experiences in the **Agritech** and **Healthcare** sectors.
+Passionate developer at **Zenetra Labs**, dedicated to building scalable web, mobile, and API solutions wiith the joy of designing efficient software infrastructures, crafting intuitive user experiences, and integrating modern tools.
+
+I’m passionate about leveraging technology to solve real-world problems.
 
 > Fun Facts
 
