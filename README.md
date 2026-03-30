@@ -26,7 +26,6 @@ I’m passionate about leveraging technology to solve real-world problems.
 
 > Activity
 <p>
-  <img src="https://wakatime.com/share/@Samkelly/40879f42-da85-4ba5-8ad9-909aa5225706.svg" alt="Coding Activity Chart 1" width="400" />
   <img src="https://wakatime.com/share/@Samkelly/a6ffdc93-2f18-4326-8451-f4897a17ecfb.svg" alt="Coding Activity Chart 2" width="400" />
 </p>
 
