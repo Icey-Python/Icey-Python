@@ -24,11 +24,6 @@ I’m passionate about leveraging technology to solve real-world problems.
 
 "Any application that can be written in JavaScript, will eventually be written in JavaScript." — *Atwood's Law*
 
-> Activity
-<p>
-  <img src="https://wakatime.com/share/@Samkelly/a6ffdc93-2f18-4326-8451-f4897a17ecfb.svg" alt="Coding Activity Chart 2" width="400" />
-</p>
-
 > Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false" />
