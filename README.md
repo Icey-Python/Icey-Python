@@ -24,10 +24,6 @@ I’m passionate about leveraging technology to solve real-world problems.
 
 "Any application that can be written in JavaScript, will eventually be written in JavaScript." — *Atwood's Law*
 
-> Stats
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icey-Python&theme=dark&hide_border=false" />
-</p>
 
 > Languages and Tools
 <br/><p align="left"><a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40"/></a>&nbsp;<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40"/></a>&nbsp;<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>&nbsp;<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" height="40"/></a>&nbsp;<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="40"/></a>&nbsp;<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="40"/></a>&nbsp;<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40"/></a>&nbsp;<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="40"/></a>&nbsp;<a href="https://posthog.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/posthog.svg" height="40"/></a>&nbsp;<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>&nbsp;<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40"/></a>&nbsp;<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="40"/></a></p>
